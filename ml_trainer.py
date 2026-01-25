@@ -9,7 +9,7 @@ Generates synthetic training data and trains various ML models.
 Author: DDoS Detection System
 """
 
-import numpy as np
+import numpy as np 
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.svm import SVC
