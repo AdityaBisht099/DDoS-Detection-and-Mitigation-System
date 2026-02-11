@@ -12,7 +12,7 @@ A real-time DDoS attack detection and mitigation system using machine learning a
 - **Automatic Mitigation**: Configurable mitigation actions for detected attacks
 - **Scalable Architecture**: Designed for high-performance network monitoring
 - **Multiple Versions**: Standalone, Simple, and Full versions for different use cases
-
+ 
 ## Requirements
 
 - Python 3.8+
