@@ -1,7 +1,7 @@
 # DDoS Detection and Mitigation System
 
 A real-time DDoS attack detection and mitigation system using machine learning and deep learning techniques. It monitors network traffic, classifies suspicious activities, and automatically reroutes or blocks malicious traffic to ensure uninterrupted service availability.
-
+ 
 ## Features
  
 - **Real-time Detection**: Monitors network traffic for SYN floods, UDP floods, HTTP floods, and other attack patterns
